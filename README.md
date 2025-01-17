@@ -1,1 +1,1 @@
-# Calculator-simple-
+The program to make a simpe calculator
